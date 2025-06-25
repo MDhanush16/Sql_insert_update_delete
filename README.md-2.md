@@ -32,4 +32,4 @@ CREATE TABLE students (
 ```
 
 ## Author
-[jangalavari](https://github.com/jangalavari)
+Dhanush
